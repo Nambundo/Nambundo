@@ -31,7 +31,7 @@
 
 ## 🧑‍💻 Sobre Mim
 
-- 💻 **Desenvolvedor Front-End** com mais de 2 anos de experiência
+- 💻 **Desenvolvedor Front-End** com experiências práticas
 - 🎓 **Doutorando** em Engenharia Elétrica
 - 🔬 **Pesquisador** em IA, NILM, Smart Meters e Machine Learning
 - ⚡ **Entusiasta** de IoT, Sistemas Embarcados e Eficiência Energética
